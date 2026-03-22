@@ -46,3 +46,5 @@ ROM output:
 
 ## Full platform build tutorial
 - See `BUILD_TUTORIAL.md` for Windows, macOS, and Linux setup steps.
+
+- See `GAMEPLAY_TUTORIAL.md` for gameplay and mode-by-mode instructions.
