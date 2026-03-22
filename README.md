@@ -48,3 +48,5 @@ ROM output:
 - See `BUILD_TUTORIAL.md` for Windows, macOS, and Linux setup steps.
 
 - See `GAMEPLAY_TUTORIAL.md` for gameplay and mode-by-mode instructions.
+
+- See `WINDOWS_8_1_RELEASE_TUTORIAL.md` for a Windows 8.1 release `.gba` build guide.
